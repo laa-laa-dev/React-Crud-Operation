@@ -1,0 +1,16 @@
+.bgStyle{
+    background: #1c699e;
+}
+.logoText{
+    color: white!important;
+    font-weight: 800!important;
+    font-size: 25px!important;
+    font-family: cursive;
+
+}
+.logoIcon{
+    padding: 15px;
+    font-size: 35px;
+    position: relative;
+    top: -7px;
+}
